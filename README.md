@@ -1,2 +1,2 @@
-# dotfiles
-my setup
+# My KDE Plasma Dotfiles
+
