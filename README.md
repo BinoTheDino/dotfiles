@@ -2,8 +2,14 @@
 ![Desktop Screenshot](https://github.com/BinoTheDino/dotfiles/blob/main/Screenshots/Screenshot1.png)
 ---
 ### Widgets:
-- [Plasmusic Toolbar](https://github.com/ccatterina/plasmusic-toolbar) - Media Display
-- [Kurve](https://github.com/luisbocanegra/kurve) - Visualizer
-- [Kara](https://github.com/dhruv8sh/kara) - Pager
-- [KDE Material Colors](https://github.com/luisbocanegra/kde-material-you-colors) - Color Theming
-- [Panel Colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) - Bar Theming
+- Media Display: [Plasmusic Toolbar](https://github.com/ccatterina/plasmusic-toolbar)
+- Visualizer: [Kurve](https://github.com/luisbocanegra/kurve)
+- Pager: [Kara](https://github.com/dhruv8sh/kara)
+- Color Theming: [KDE Material Colors](https://github.com/luisbocanegra/kde-material-you-colors)
+- Bar Theming: [Panel Colorizer](https://github.com/luisbocanegra/plasma-panel-colorizer) 
+### Other:
+- Tiling: [Krohnkite](https://github.com/esjeon/krohnkite)
+- Force Blur: [Better Blur DX](https://github.com/xarblu/kwin-effects-better-blur-dx)
+- Application Style: [Darkly](https://github.com/Bali10050/Darkly)
+- Window Decorations: [Sierra Breeze Enhanced](https://github.com/kupiqu/SierraBreezeEnhanced)
+- Icons: [Yet-Another-Monochrome-Icon-Set](https://store.kde.org/p/2303161)
