@@ -1,5 +1,5 @@
 # My KDE Plasma Dotfiles
-![Desktop Screenshot](https://github.com/BinoTheDino/dotfiles/blob/main/Screenshots/Screenshot1.png)
+![Desktop Screenshot](https://github.com/BinoTheDino/dotfiles/blob/main/Screenshots/Screenshot.png)
 ---
 ### Widgets:
 - Media Display: [Plasmusic Toolbar](https://github.com/ccatterina/plasmusic-toolbar)
