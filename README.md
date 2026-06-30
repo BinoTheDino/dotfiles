@@ -1,6 +1,6 @@
 <h1 align = "center"> My KDE Plasma Setup </h2>
 
-![Desktop Screenshot](https://github.com/BinoTheDino/dotfiles/blob/main/Screenshots/Screenshot.png)
+![Desktop Screenshot](https://github.com/BinoTheDino/KDE-dotfiles/blob/main/Screenshots/Screenshot.png)
 
 <h2 align = "center"> Software </h2>
 
